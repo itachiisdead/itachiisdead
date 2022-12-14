@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @itachiisdead
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning unity with c#
+- 🌱 I’m currently learning web development
+- I'm currently workingg on a 2d game with unity
 
 
 <!---
