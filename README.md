@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Heba</h1>
 <h3 align="center">A passionate Game developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp)">
+<img align="right" alt="Coding" width="400" src="[https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif]">
 - 🌱 I’m currently learning **ML and backend development**
 - 📫 How to reach me **itachiisdead0101@gmail.com**
 
