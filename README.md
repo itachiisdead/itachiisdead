@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Game developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- 🌱 I’m currently learning **ML and backend development**
+- 🌱 I’m currently learning **ML and .Net framework**
 - 📫 How to reach me **itachiisdead0101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
