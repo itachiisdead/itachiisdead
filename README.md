@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Heba</h1>
 <h3 align="center">A passionate Game developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itachiisdead&label=Profile%20views&color=0e75b6&style=flat" alt="itachiisdead" /> </p>
-
 - 🌱 I’m currently learning **ML and backend development**
 
 <h3 align="left">Connect with me:</h3>
