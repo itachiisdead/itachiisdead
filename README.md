@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Game developer</h3>
 
 - 🌱 I’m currently learning **ML and backend development**
-
 - 📫 How to reach me **itachiisdead0101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
