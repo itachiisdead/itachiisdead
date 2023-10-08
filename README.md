@@ -1,7 +1,11 @@
-<h1 align="center">About me👾</
+<h1 align="left">About me👾</
 h1>
 <h3 align="center">An enthusiastic game developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+-A computer science student. Proficient in coding languages such as C++, Java, C#, and Python.
+-Proficiency in working with databases and knowledge of SQL (with MySQL DBMS) and SQLite. 
+-Looking forward to contributing to the development of innovative projects.
 
 - 🌱 I’m currently learning **ML and .Net framework**
 - 📫 How to reach me **itachiisdead0101@gmail.com**
