@@ -3,7 +3,8 @@ h1>
 <h3 align="center">An enthusiastic game developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
--A computer science student. Proficient in coding languages such as C++, Java, C#, and Python.
+-A computer science student.
+-Proficient in coding languages such as C++, Java, C#, and Python.
 -Proficiency in working with databases and knowledge of SQL (with MySQL DBMS) and SQLite. 
 -Looking forward to contributing to the development of innovative projects.
 
@@ -21,4 +22,5 @@ h1>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itachiisdead&show_icons=true&locale=en&layout=compact" alt="itachiisdead" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itachiisdead&" alt="itachiisdead" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itachiisdead
+&" alt="itachiisdead" /></p>
