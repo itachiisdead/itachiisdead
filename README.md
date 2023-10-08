@@ -4,6 +4,7 @@ h1>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 -A computer science student.
+
 -Proficient in coding languages such as C++, Java, C#, and Python.
 -Proficiency in working with databases and knowledge of SQL (with MySQL DBMS) and SQLite. 
 -Looking forward to contributing to the development of innovative projects.
