@@ -1,4 +1,5 @@
-<h1 align="center">Howdy👾, I'm Heba🤖</h1>
+<h1 align="center">About me👾</
+h1>
 <h3 align="center">An enthusiastic game developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
