@@ -3,7 +3,7 @@ h1>
 <h3 align="center">An enthusiastic game developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
--A computer science student.
+-computer science student.
 
 -Proficient in coding languages such as C++, Java, C#, and Python.
 
