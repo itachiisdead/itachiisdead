@@ -1,6 +1,6 @@
 <h1 align="left">About me👾</
 h1>
-<h3 align="center">An enthusiastic game developer</h3>
+<h3 align="center">An enthusiastic game developer/ ML trainee </h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 -computer science student.
