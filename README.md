@@ -4,9 +4,9 @@ h1>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 -computer science student.
-
+-proficient in Python and familiar with relevant libraries like TensorFlow, NumPyو PyTorch, Ursina, and OpenCV.
+-2+ years of experience in C# game development.
 -Proficient in coding languages such as C++, Java, C#, and Python.
-
 -Proficiency in working with databases and knowledge of SQL (with MySQL DBMS) and SQLite. 
 
 -Looking forward to contributing to the development of innovative projects.
