@@ -5,7 +5,7 @@ h1>
 
 -computer science student.
 -proficient in Python and familiar with relevant libraries like TensorFlow, NumPyو PyTorch, Ursina, and OpenCV.
--2+ years of experience in C# game development.
+-2+ years of experience in game development with unity.
 -Proficient in coding languages such as C++, Java, C#, and Python.
 -Proficiency in working with databases and knowledge of SQL (with MySQL DBMS) and SQLite. 
 
