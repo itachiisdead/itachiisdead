@@ -1,10 +1,10 @@
 <h1 align="left">About me👾</
 h1>
-<h3 align="center">An enthusiastic game developer/ ML trainee </h3>
+<h3 align="center">ML trainee/An enthusiastic game developer </h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 -computer science student.
--proficient in Python and familiar with relevant libraries like TensorFlow, NumPyو PyTorch, Ursina, and OpenCV.
+-proficient in Python and familiar with relevant libraries like TensorFlow, NumPy, PyTorch, Ursina, and OpenCV.
 -2+ years of experience in game development with unity.
 -Proficient in coding languages such as C++, Java, C#, and Python.
 -Proficiency in working with databases and knowledge of SQL (with MySQL DBMS) and SQLite. 
