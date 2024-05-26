@@ -11,7 +11,7 @@ h1>
 
 -Looking forward to contributing to the development of innovative projects.
 
-- 🌱 I’m currently learning **ML and .Net framework**
+- 🌱 I’m currently learning **ML and django framework**
 - 📫 How to reach me **itachiisdead0101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
