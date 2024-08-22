@@ -4,12 +4,6 @@ h1>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 -computer science student.
--proficient in Python and familiar with relevant libraries like TensorFlow, NumPy, PyTorch, Ursina, and OpenCV.
--2+ years of experience in game development with unity.
--Proficient in coding languages such as C++, Java, C#, and Python.
--Proficiency in working with databases and knowledge of SQL (with MySQL DBMS) and SQLite. 
-
--Looking forward to contributing to the development of innovative projects.
 
 - 🌱 I’m currently learning **ML and django framework**
 - 📫 How to reach me **itachiisdead0101@gmail.com**
