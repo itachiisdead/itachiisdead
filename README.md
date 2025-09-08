@@ -1,11 +1,11 @@
 <h1 align="left">About me👾</
 h1>
-<h3 align="center">ML trainee/An enthusiastic game developer </h3>
+<h3 align="center">ML engineer/An enthusiastic game developer </h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 -computer science student.
 
-- 🌱 I’m currently learning **ML and django framework**
+- 🌱 I’m currently learning **AWS, MLops and django framework**
 - 📫 How to reach me **itachiisdead0101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
